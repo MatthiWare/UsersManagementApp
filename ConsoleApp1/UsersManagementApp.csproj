@@ -6,8 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MatthiWare.CommandLineParser" Version="0.5.2" />
-    <PackageReference Include="MatthiWare.CommandLineParser.Extensions.FluentValidations" Version="0.5.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.1" />
   </ItemGroup>
 
