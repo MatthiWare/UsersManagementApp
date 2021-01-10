@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UsersManagementApp": {
+      "commandName": "Project",
+      "commandLineArgs": "register MyUser1 blablabnla"
+    }
+  }
+}
